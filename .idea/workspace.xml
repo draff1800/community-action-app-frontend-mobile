@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/components/pages/NewMoodDiaryPage.js" line="136" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e902922-a38d-4f5a-9969-89f28f43bf9f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/HelpfulInformationPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/HelpfulInformationPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/LoginPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/LoginPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/MoodCalendarPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/MoodCalendarPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/MoodDiariesPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/MoodDiariesPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/NewMoodDiaryPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/NewMoodDiaryPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/RegisterPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/RegisterPage.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>navigationtree</find>
+      <find>tab</find>
+      <find>style</find>
+      <find>theme</find>
+      <find>set</find>
+      <find>value</find>
+      <find>componentdidmount</find>
+      <find>mood</find>
+      <find>center</find>
+      <find>cent</find>
+      <find>naviga</find>
+      <find>handleTogglePublishButtonPress</find>
+      <find>diaryExists</find>
+      <find>Hey</find>
+      <find>Meme</find>
+      <find>console</find>
+      <find>consol</find>
+      <find>svg</find>
+      <find>dimensions</find>
+      <find>black</find>
+      <find>this.props.navigation</find>
+      <find>shared</find>
+      <find>ref</find>
+      <find>init</find>
+      <find>ref.on</find>
+      <find>timeout</find>
+      <find>this.</find>
+      <find>send</find>
+      <find>MyTopTa</find>
+      <find>NewMoodDiaryPage</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/config/Firebase.js" />
+        <option value="$PROJECT_DIR$/babel.config.js" />
+        <option value="$PROJECT_DIR$/src/components/Login.js" />
+        <option value="$PROJECT_DIR$/src/components/MoodDiaryPage.js" />
+        <option value="$PROJECT_DIR$/src/components/MoodTrackerPage.js" />
+        <option value="$PROJECT_DIR$/src/components/NavBars/BottomNavBar.js" />
+        <option value="$PROJECT_DIR$/src/components/MoodDiaries.js" />
+        <option value="$PROJECT_DIR$/src/components/NavBars/TopNavBar.js" />
+        <option value="$PROJECT_DIR$/src/components/Navigation.js" />
+        <option value="$PROJECT_DIR$/src/components/NavigationTree.js" />
+        <option value="$PROJECT_DIR$/src/formValidationRules.js" />
+        <option value="$PROJECT_DIR$/src/formValidation.js" />
+        <option value="$PROJECT_DIR$/src/components/HomeTabNavigator.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/components/RegisterPage.js" />
+        <option value="$PROJECT_DIR$/src/components/LoginPage.js" />
+        <option value="$PROJECT_DIR$/src/components/RecommendationsPage.js" />
+        <option value="$PROJECT_DIR$/src/components/CommunityNavigatorDetailsPage.js" />
+        <option value="$PROJECT_DIR$/src/components/HelpfulLinksPage.js" />
+        <option value="$PROJECT_DIR$/src/components/ProfilePage.js" />
+        <option value="$PROJECT_DIR$/src/components/MoodCalendarPage.js" />
+        <option value="$PROJECT_DIR$/src/components/EventRecommendationsPage.js" />
+        <option value="$PROJECT_DIR$/src/components/AtHomeRecommendationsPage" />
+        <option value="$PROJECT_DIR$/src/components/AtHomeRecommendationsPage.js" />
+        <option value="$PROJECT_DIR$/src/components/addMoodDiaryCard.js" />
+        <option value="$PROJECT_DIR$/src/components/MoodDiariesPage.js" />
+        <option value="$PROJECT_DIR$/src/theme.js" />
+        <option value="$PROJECT_DIR$/src/components/AddMoodDiaryCard.js" />
+        <option value="$PROJECT_DIR$/src/components/elements/AddMoodDiaryCard.js" />
+        <option value="$PROJECT_DIR$/src/Styles.js" />
+        <option value="$PROJECT_DIR$/src/components/elements/EditMoodDiaryCard.js" />
+        <option value="$PROJECT_DIR$/src/components/pages/UpdateMoodDiaryPage.js" />
+        <option value="$PROJECT_DIR$/src/components/elements/NewMoodDiaryCard.js" />
+        <option value="$PROJECT_DIR$/src/components/pages/AtHomeRecommendationsPage.js" />
+        <option value="$PROJECT_DIR$/src/components/elements/RecommendationTiles.js" />
+        <option value="$PROJECT_DIR$/src/components/pages/RecommendationsPage.js" />
+        <option value="$PROJECT_DIR$/firebase/Fire.js" />
+        <option value="$PROJECT_DIR$/src/components/pages/CommunityNavigatorChatPage.js" />
+        <option value="$PROJECT_DIR$/src/components/pages/HelpfulLinksPage.js" />
+        <option value="$PROJECT_DIR$/src/components/pages/ProfilePage.js" />
+        <option value="$PROJECT_DIR$/src/components/pages/CommunityNavigatorDetailsPage.js" />
+        <option value="$PROJECT_DIR$/src/components/pages/HelpfulInformationPage.js" />
+        <option value="$PROJECT_DIR$/src/components/pages/LoginPage.js" />
+        <option value="$PROJECT_DIR$/src/components/pages/MoodDiariesPage.js" />
+        <option value="$PROJECT_DIR$/src/components/pages/NewMoodDiaryPage.js" />
+        <option value="$PROJECT_DIR$/src/components/pages/MoodCalendarPage.js" />
+        <option value="$PROJECT_DIR$/App.js" />
+        <option value="$PROJECT_DIR$/src/components/pages/RegisterPage.js" />
+        <option value="$PROJECT_DIR$/src/components/elements/ExistingMoodDiaryCard.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/b00687500FinalYearProjectCoursework.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="communityActionApp_MobileFE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="communityActionApp_MobileFE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="communityActionApp_MobileFE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="communityActionApp_MobileFE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="communityActionApp_MobileFE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="communityActionApp_MobileFE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="communityActionApp_MobileFE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="communityActionApp_MobileFE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="elements" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="communityActionApp_MobileFE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="communityActionApp_MobileFE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Draff\WebstormProjects\communityActionApp_MobileFE\src\components\elements" />
+      <recent name="C:\Users\Draff\WebstormProjects\communityActionApp_MobileFE\src\components\pages" />
+      <recent name="C:\Users\Draff\WebstormProjects\communityActionApp_MobileFE\src\components" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Draff\WebstormProjects\communityActionApp_MobileFE\src\components\pages" />
+      <recent name="C:\Users\Draff\WebstormProjects\communityActionApp_MobileFE\src\components\elements" />
+      <recent name="C:\Users\Draff\WebstormProjects\communityActionApp_MobileFE\src\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e902922-a38d-4f5a-9969-89f28f43bf9f" name="Default Changelist" comment="" />
+      <created>1576510886417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576510886417</updated>
+      <workItem from="1576510887893" duration="9609000" />
+      <workItem from="1576563907457" duration="15853000" />
+      <workItem from="1579911719913" duration="2316000" />
+      <workItem from="1580826826262" duration="5854000" />
+      <workItem from="1581009971250" duration="7350000" />
+      <workItem from="1581960972374" duration="14012000" />
+      <workItem from="1582636171337" duration="806000" />
+      <workItem from="1583088719185" duration="18952000" />
+      <workItem from="1583332865721" duration="37981000" />
+      <workItem from="1583507761970" duration="1018000" />
+      <workItem from="1583842344685" duration="11065000" />
+      <workItem from="1583888984650" duration="8492000" />
+      <workItem from="1583969114711" duration="1746000" />
+      <workItem from="1584020573430" duration="34271000" />
+      <workItem from="1584218008534" duration="623000" />
+      <workItem from="1584218746885" duration="288000" />
+      <workItem from="1584970818253" duration="884000" />
+      <workItem from="1586734039155" duration="1696000" />
+      <workItem from="1587151453000" duration="4414000" />
+      <workItem from="1587164848986" duration="198000" />
+      <workItem from="1587165890770" duration="3146000" />
+      <workItem from="1587489557883" duration="13476000" />
+      <workItem from="1587977166816" duration="52988000" />
+      <workItem from="1588956060688" duration="147161000" />
+      <workItem from="1589492861967" duration="18000" />
+      <workItem from="1590055211625" duration="1362000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="395579000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Project Explorer" order="4" weight="0.32995737" />
+      <window_info id="Job Explorer" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.32887402" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932885" weight="0.32941177" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="GraphQL" order="9" sideWeight="0.49932885" weight="0.32941177" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.40138593" side_tool="true" weight="0.4214047" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.5986141" visible="true" weight="0.4214047" />
+      <window_info anchor="bottom" id="Console" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3295302" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24466951" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Project Explorer" order="4" />
+      <window_info id="Job Explorer" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.32887402" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932885" weight="0.32941177" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="GraphQL" order="9" sideWeight="0.49932885" weight="0.32941177" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.40138593" side_tool="true" visible="true" weight="0.4214047" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.5986141" visible="true" weight="0.4214047" />
+      <window_info anchor="bottom" id="Console" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3295302" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.env" />
+    <entry file="file://$PROJECT_DIR$/babel.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/NavBars/BottomNavBar.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/NavigationTree.js" />
+    <entry file="file://$PROJECT_DIR$/src/formValidationRules.js" />
+    <entry file="file://$PROJECT_DIR$/src/formValidation.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/HomeTabNavigator.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/pages/EventRecommendationsPage.js" />
+    <entry file="file://$PROJECT_DIR$/src/theme.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/elements/EditMoodDiaryCard.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/pages/ViewMoodDiaryPage.js" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/Firebase.js" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1816">
+          <caret line="1090" column="24" lean-forward="true" selection-start-line="1090" selection-start-column="24" selection-end-line="1090" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pages/CommunityNavigatorChatPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firebase/Fire.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="52" lean-forward="true" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Styles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1944">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pages/HelpfulInformationPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="44" column="11" lean-forward="true" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pages/ProfilePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pages/CommunityNavigatorDetailsPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1824">
+          <caret line="76" column="17" lean-forward="true" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="25" column="88" selection-start-line="25" selection-start-column="88" selection-end-line="25" selection-end-column="88" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/elements/RecommendationTiles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="164" column="71" selection-start-line="164" selection-start-column="71" selection-end-line="164" selection-end-column="71" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pages/LoginPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="25" column="63" selection-start-line="25" selection-start-column="63" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pages/RegisterPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="50" column="31" lean-forward="true" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pages/MoodDiariesPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="46" column="133" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="133" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/elements/NewMoodDiaryCard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-624">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/elements/ExistingMoodDiaryCard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1512">
+          <caret column="58" lean-forward="true" selection-start-column="58" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pages/NewMoodDiaryPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1944">
+          <caret column="39" lean-forward="true" selection-start-column="39" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pages/UpdateMoodDiaryPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="51" column="57" selection-start-line="51" selection-start-column="57" selection-end-line="51" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pages/MoodCalendarPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="42" column="189" selection-start-line="42" selection-start-column="189" selection-end-line="42" selection-end-column="189" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pages/RecommendationsPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="163" selection-start-line="21" selection-start-column="74" selection-end-line="21" selection-end-column="163" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

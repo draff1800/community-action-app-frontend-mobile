@@ -1,0 +1,46 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^10.0.6",
+    "@react-native-community/masked-view": "0.1.5",
+    "@react-navigation/material-bottom-tabs": "^5.1.10",
+    "@react-navigation/material-top-tabs": "^5.1.9",
+    "@react-navigation/native": "^5.1.5",
+    "@react-navigation/stack": "^5.2.11",
+    "expo": "^36.0.2",
+    "firebase": "^7.14.3",
+    "galio-framework": "^0.6.3",
+    "install": "^0.13.0",
+    "moment": "^2.25.3",
+    "native-base": "^2.13.12",
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.0.tar.gz",
+    "react-native-chart-kit": "^5.5.0",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-elements": "^2.0.0",
+    "react-native-gesture-handler": "~1.5.0",
+    "react-native-gifted-chat": "^0.16.0",
+    "react-native-paper": "^3.8.0",
+    "react-native-picker-select": "^7.0.0",
+    "react-native-reanimated": "~1.4.0",
+    "react-native-safe-area-context": "0.6.0",
+    "react-native-screens": "2.0.0-alpha.12",
+    "react-native-simple-radio-button": "^2.7.4",
+    "react-native-svg": "9.13.3",
+    "react-native-tab-view": "^2.14.0",
+    "react-native-vector-icons": "^6.6.0",
+    "victory-native": "^34.1.0"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^8.1.0"
+  },
+  "private": true
+}
